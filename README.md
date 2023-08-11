@@ -1,4 +1,4 @@
-# Terminal Styling Library
+# Terminal Styling Library(Biblioetca para cores de strings)
 
 Este projeto consiste em uma biblioteca simples em Python que facilita a formatação de cores de fundo e letras para saídas de terminal. Ele oferece classes que permitem aos desenvolvedores adicionar estilo e personalização às mensagens exibidas no console.
 
