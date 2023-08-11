@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/pacote_cores_gumaso/__init__.py
+src/pacote_cores_gumaso/example.py
+src/pacote_cores_gumaso.egg-info/PKG-INFO
+src/pacote_cores_gumaso.egg-info/SOURCES.txt
+src/pacote_cores_gumaso.egg-info/dependency_links.txt
+src/pacote_cores_gumaso.egg-info/top_level.txt
